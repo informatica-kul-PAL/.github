@@ -21,5 +21,5 @@
 |----------|------------------------------------------------------------------|----------------------------------|-------------|---------------|
 | Di 21/03 | Objectgericht Programmeren <br> Gegevensstructuren en Algoritmen | Project Iteratie 1 <br> Algemeen | 200A 00.144 | 20.00 - 22.00 |
 | Wo 19/04 | Objectgericht Programmeren <br> Gegevensstructuren en Algoritmen | Project Iteratie 2 <br> Algemeen | 200A 00.144 | 20.00 - 22.00 |
-| Di 25/04 | Objectgericht Programmeren <br> Gegevensstructuren en Algoritmen | Project Iteratie 2 <br> Algemeen | 200A 00.144 | 20.00 - 22.00 |
+| Wo 26/04 | Objectgericht Programmeren <br> Gegevensstructuren en Algoritmen | Project Iteratie 2 <br> Algemeen | 200A 00.144 | 20.00 - 22.00 |
 | Di 16/05 | Objectgericht Programmeren <br> Gegevensstructuren en Algoritmen | Project Iteratie 3 <br> Algemeen | 200A 00.144 | 20.00 - 22.00 |
