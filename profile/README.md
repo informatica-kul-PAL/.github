@@ -10,7 +10,6 @@
 | Ma 30/10 | Beginselen van Programmeren                   | TTT                   | 200A 00.144 | 20.00 - 22.00 |
 | Ma 06/11 | Structuur en Organisatie van Computersystemen | Risc-V test 1         | 200A 00.144 | 20.00 - 22.00 |
 | Di 14/11 | Informaticawerktuigen                         | JS Project            | 200A 00.144 | 20.00 - 22.00 |
-| Ma 05/12 | Structuur en Organisatie van Computersystemen | Algemene extra sessie | 200A 00.144 | 20.00 - 22.00 |
 | Ma 11/12 | Informaticawerktuigen                         | C Project             | 200A 00.144 | 20.00 - 22.00 |
 | Di 12/12 | Beginselen van Programmeren                   | Practicum 2           | 200A 00.144 | 20.00 - 22.00 |
 | Ma 18/12 | Structuur en Organisatie van Computersystemen | Risc-V test 2         | 200A 00.144 | 20.00 - 22.00 |
