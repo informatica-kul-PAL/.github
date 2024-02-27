@@ -4,7 +4,7 @@
 
 ### 1e Semester
 
-| Wanneer  | Vak                                           | Onderwerp             | Waar        | Hoelaat       |
+| Wanneer  | Vak                                           | Onderwerp             | Waar        | Hoe laat      |
 |----------|-----------------------------------------------|-----------------------|-------------|---------------|
 | Vr 13/10 | Beginselen van Programmeren                   | Practicum 1           | 200A 00.144 | 13.00 - 14.00 |
 | Ma 30/10 | Beginselen van Programmeren                   | TTT                   | 200A 00.144 | 20.00 - 22.00 |
@@ -16,7 +16,7 @@
 
 ### 2e Semester
 
-| Wanneer  | Vak                                           | Onderwerp             | Waar        | Hoelaat       |
+| Wanneer  | Vak                                           | Onderwerp             | Waar        | Hoe laat      |
 |----------|-----------------------------------------------|-----------------------|-------------|---------------|
 | Di 12/03 | Objectgericht Programmeren                    | Project iteratie 1    | 200A 00.144 | 20.00 - 22.00 |
 | Di 19/03 | Natuurkunde voor Informatici I                | OZ 1 tem 4            | 200A 00.144 | 20.00 - 22.00 |
