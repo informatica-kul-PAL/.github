@@ -22,8 +22,8 @@
 | Di 19/03 | Natuurkunde voor Informatici I                | OZ 1 tem 4            | 200A 00.144 | 20.00 - 22.00 |
 | Ma 15/04 | Natuurkunde voor Informatici I                | OZ 1 tem 5, TTT       | 200A 00.144 | 20.00 - 22.00 |
 | Di 16/04 | Objectgericht Programmeren                    | Project iteratie 2    | 200A 00.144 | 20.00 - 22.00 |
+| Ma 14/05 | Natuurkunde voor Informatici I                | OZ 6 tem 9            | 200A 00.144 | 20.00 - 22.00 |
 | Di 21/05 | Objectgericht Programmeren                    | Project iteratie 3    | 200A 00.144 | 20.00 - 22.00 |
 
 ***Notes:*** 
-- *Extra sessies voor NAT1 worden later nog toegevoegd deze hangen af van de aanwezigheden tijdens de eerste 2 sessies.*
 - *Vanaf dit jaar zijn er geen sessies voor GNA meer, indien hier vragen voor zijn kunnen deze in de Discord server geplaatst worden, indien er toch een grote vraag naar sessies lijkt te zijn kunnen deze later nog ingepland worden.*
