@@ -4,18 +4,18 @@
 
 ### 1e Semester
 
-TBD
-<!---
 | Wanneer  | Vak                                           | Onderwerp             | Waar        | Hoe laat      |
 |----------|-----------------------------------------------|-----------------------|-------------|---------------|
-| Vr 13/10 | Beginselen van Programmeren                   | Practicum 1           | 200A 00.144 | 13.00 - 14.00 |
-| Ma 30/10 | Beginselen van Programmeren                   | TTT                   | 200A 00.144 | 20.00 - 22.00 |
-| Ma 06/11 | Structuur en Organisatie van Computersystemen | Risc-V test 1         | 200A 00.144 | 20.00 - 22.00 |
-| Di 14/11 | Informaticawerktuigen                         | JS Project            | 200A 00.144 | 20.00 - 22.00 |
-| Ma 11/12 | Informaticawerktuigen                         | C Project             | 200A 00.144 | 20.00 - 22.00 |
-| Di 12/12 | Beginselen van Programmeren                   | Practicum 2           | 200A 00.144 | 20.00 - 22.00 |
-| Ma 18/12 | Structuur en Organisatie van Computersystemen | Risc-V test 2         | 200A 00.144 | 20.00 - 22.00 |
---->
+| Do 10/10 | Beginselen van Programmeren                   | Practicum 1           | 200A 00.144 | 20.00 - 22.00 |
+| Ma 04/11 | Structuur en Organisatie van Computersystemen | Risc-V test 1         | 200A 00.144 | 20.00 - 22.00 |
+| Do 07/11 | Beginselen van Programmeren                   | TTT                   | 200A 00.144 | 20.00 - 22.00 |
+| Di 12/11 | Informaticawerktuigen                         | JS Project            | 200A 00.144 | 20.00 - 22.00 |
+| Ma 09/12 | Beginselen van Programmeren + (IW)            | Practicum 2           | 200A 00.144 | 20.00 - 22.00 |
+| Di 10/12 | Informaticawerktuigen + (BVP)                 | C Project             | 200A 00.144 | 20.00 - 22.00 |
+| Ma 16/12 | Structuur en Organisatie van Computersystemen | Risc-V test 2         | 200A 00.144 | 20.00 - 22.00 |
+
+> [!NOTE]  
+> De sessies op maandag 9 december en dinsdag 10 september staan gelijst als respectievelijk BVP en IW, maar voor beide kunnen vragen worden gesteld tijdens beide sessies!
 
 ### 2e Semester
 
