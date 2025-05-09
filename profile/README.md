@@ -26,6 +26,6 @@
 | Di 25/03 | Natuurkunde voor Informatici I                | OZ 1 tem 5, TTT       | 200A 00.144 | 20.00 - 22.00 |
 | Wo 02/04 | Objectgericht Programmeren                    | Project iteratie 2    | 200A 00.144 | 20.00 - 22.00 |
 | Di 06/05 | Natuurkunde voor Informatici I                | OZ 6 tem 9            | 200A 00.144 | 20.00 - 22.00 |
-| Di 13/05 | Natuurkunde voor Informatici I                | OZ 6 tem 9            | 200A 00.144 | 20.00 - 22.00 |
+| ~~Di 13/05~~ | ~~Natuurkunde voor Informatici I~~                | ~~OZ 6 tem 9~~            | ~~200A 00.144~~ | ~~20.00 - 22.00~~ |
 | Di 20/05 | Objectgericht Programmeren                    | Project iteratie 3    | 200A 00.144 | 20.00 - 22.00 |
 
