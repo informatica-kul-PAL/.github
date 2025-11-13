@@ -11,6 +11,7 @@
 | Di 04/11 | Beginselen van Programmeren + Informaticawerktuigen | TTT + JS Project      | 200A 00.144 | 20.00 - 22.00 |
 | Do 06/11 | Beginselen van Programmeren + Informaticawerktuigen | TTT + JS Project      | 200A 00.144 | 20.00 - 22.00 |
 | Ma 24/11 | Declaratieve Talen                                  | Typeclasses           | 200A 00.144 | 20.00 - 22.00 |
+| Wo 03/12 | Informaticawerktuigen                               | C programmeertaal     | 200B  00.07 | 14.00 - 16.00 |
 | Ma 08/12 | Beginselen van Programmeren + Gegevensbanken        | Practicum 2 + Project | 200A 00.144 | 20.00 - 22.00 |
 | Di 16/12 | Declaratieve Talen                                  | Datalog               | 200A 00.144 | 20.00 - 22.00 |
 
