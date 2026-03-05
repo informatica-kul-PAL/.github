@@ -18,15 +18,15 @@
 
 ### 2e Semester
 
-TBD
-<!--
 | Wanneer  | Vak                                           | Onderwerp             | Waar        | Hoe laat      |
 |----------|-----------------------------------------------|-----------------------|-------------|---------------|
-| Di 11/03 | Objectgericht Programmeren                    | Project iteratie 1    | 200A 00.144 | 20.00 - 22.00 |
-| Di 18/03 | Natuurkunde voor Informatici I                | OZ 1 tem 4            | 200A 00.144 | 20.00 - 22.00 |
-| Di 25/03 | Natuurkunde voor Informatici I                | OZ 1 tem 5, TTT       | 200A 00.144 | 20.00 - 22.00 |
-| Wo 02/04 | Objectgericht Programmeren                    | Project iteratie 2    | 200A 00.144 | 20.00 - 22.00 |
-| Di 06/05 | Natuurkunde voor Informatici I                | OZ 6 tem 9            | 200A 00.144 | 20.00 - 22.00 |
-| ~~Di 13/05~~ | ~~Natuurkunde voor Informatici I~~                | ~~OZ 6 tem 9~~            | ~~200A 00.144~~ | ~~20.00 - 22.00~~ |
-| Di 20/05 | Objectgericht Programmeren                    | Project iteratie 3    | 200A 00.144 | 20.00 - 22.00 |
--->
+| Wo 11/03 | Modulair Programmeren                         | Project iteratie 1    | 200A 00.144 | 20.00 - 22.00 |
+| Do 12/03 | Besturingssystemen                            | xv6 labos             | 200A 00.144 | 20.00 - 22.00 |
+| Ma 16/03 | Natuurkunde voor Informatici I                | OZ 1 tem 4            | 200A 00.144 | 20.00 - 22.00 |
+| Ma 23/03 | Natuurkunde voor Informatici I                | OZ 1 tem 5, TTT       | 200A 00.144 | 20.00 - 22.00 |
+| Do 02/04 | Modulair Programmeren                         | Project iteratie 2    | 200A 00.144 | 20.00 - 22.00 |
+| D0 30/04 | Besturingssystemen                            | xv6 labos             | 200A 00.144 | 20.00 - 22.00 |
+| Di 19/05 | Modulair Programmeren                         | Project iteratie 3    | 200A 00.144 | 20.00 - 22.00 |
+
+> [!NOTE]
+> Indien nuttig kunnen er voor Natuurkunde voor Informatici I extra sessies worden ingepland voor de latere oefenzittingen.
